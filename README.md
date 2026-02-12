@@ -205,8 +205,7 @@ http://localhost:5173
 📹 Add demo video link here:
 
 ```
-https://your-demo-video-link.com
-```
+https://drive.google.com/file/d/1x-qhY1o1PRgHM4ZcvpOk7NRR_Ks5qb2e/view?usp=drivesdk```
 
 ---
 
@@ -215,9 +214,11 @@ https://your-demo-video-link.com
 
 
 ```markdown
-![Projectile Simulation](demo-images/projectile.png)
-![Free Fall Simulation](demo-images/freefall.png)
-![Inclined Plane](demo-images/incline.png)
+https://drive.google.com/file/d/1OVZ5V4PtwQa_lWaYE7r7Eot-3uksRDeK/view?usp=drivesdk
+
+https://drive.google.com/file/d/1EVfPjiHk_LiVou2NICMwTZo8BxprPgNq/view?usp=drivesdk
+
+https://drive.google.com/file/d/1yNfWjwXTOPkbUyJvzng82vtp4Fvk-VQ1/view?usp=drivesdk
 ```
 
 ---
