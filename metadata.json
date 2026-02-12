@@ -1,0 +1,9 @@
+
+{
+  "name": "PhysiViz AI",
+  "description": "An AI-powered physics visualization engine that converts word problems into interactive simulations with real-time parameter control, step-by-step solutions, and dynamic graphing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
