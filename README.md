@@ -131,7 +131,7 @@ physiviz-ai/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/physiviz-ai.git
+git clone https://github.com/chiluveruharshith-hari/physiviz-ai.git
 cd physiviz-ai
 ```
 
@@ -205,7 +205,8 @@ http://localhost:5173
 📹 Add demo video link here:
 
 ```
-https://drive.google.com/file/d/1x-qhY1o1PRgHM4ZcvpOk7NRR_Ks5qb2e/view?usp=drivesdk```
+https://drive.google.com/file/d/1x-qhY1o1PRgHM4ZcvpOk7NRR_Ks5qb2e/view?usp=drivesdk
+```
 
 ---
 
@@ -213,12 +214,13 @@ https://drive.google.com/file/d/1x-qhY1o1PRgHM4ZcvpOk7NRR_Ks5qb2e/view?usp=drive
 
 
 
-```markdown
+```
 https://drive.google.com/file/d/1OVZ5V4PtwQa_lWaYE7r7Eot-3uksRDeK/view?usp=drivesdk
 
 https://drive.google.com/file/d/1EVfPjiHk_LiVou2NICMwTZo8BxprPgNq/view?usp=drivesdk
 
 https://drive.google.com/file/d/1yNfWjwXTOPkbUyJvzng82vtp4Fvk-VQ1/view?usp=drivesdk
+
 ```
 
 ---
